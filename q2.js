@@ -4,4 +4,6 @@ function printStars(){
     console.log("* ".repeat(i));
  }
 }
+
 printStars();
+
